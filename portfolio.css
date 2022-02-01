@@ -1,0 +1,172 @@
+#logo {
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+.nav {
+    margin: 20px;
+}
+
+.navmenu {
+    display: flex;
+    position: relative;
+    list-style: none;
+}
+
+.navitems {
+    margin: 20px;
+    size: 50px;
+}
+
+.navblock {
+    float: right;
+}
+
+.navbutton {
+    width: 30px;
+}
+
+#profilepic {
+    width: 400px;
+    border-radius: 50%;
+    float: right;
+    margin-right: -200px;
+
+}
+
+.about {
+    /* width: 80%; */
+    margin: 50px;
+    padding: 20px;
+}
+
+.info {
+    width: 40%;
+}
+
+div {
+    margin: 50px;
+}
+
+.skillset {
+    text-align: center;
+}
+
+#langhead {
+    margin-top: 400px;
+    margin-right: 400px;
+}
+
+.tableblock {
+    margin-left: 50%;
+}
+
+.thead {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.language {
+    text-align: center;
+    border: solid rgba(255, 255, 255, 0);
+    margin: 40px;
+    border-radius: 15px;
+    border-width: 2px;
+    border-spacing: 10px;
+    background: linear-gradient(#56ab2f , #a8e063);
+}
+
+h3 {
+    color: rgb(18, 40, 182);
+    font-size: 35px;
+    font-family: 'Architects Daughter', cursive;
+    text-decoration: underline;
+}
+
+h1 {
+    color: saddlebrown;
+    font: italic small-caps bold 32px/2 cursive;
+    font-size: 50px;
+}
+
+.eduhead {
+    margin-right: 20%;
+    margin-top: 100px;
+}
+
+.edu {
+    list-style: none;
+    line-height: 40px;
+    align-content: center;
+    border: solid 2px rgba(255, 255, 255, 0);
+    border-radius: 15px;
+    width: 30%;
+    margin-left: 200px;
+    background: linear-gradient(to top ,#43cea2 , #185a9d);
+}
+
+.eduitems {
+    margin-left: -40px;
+}
+
+.certificates {
+    width: 200px;
+    margin: 150px;
+    border-radius: 10px;
+}
+
+#certifyhead {
+    margin-top: 200px;
+}
+
+.certification {
+    text-align: center;
+}
+body {
+    background: linear-gradient(45deg, #13547a , #80d0c7);
+    color: white;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin: 20px;
+    background: radial-gradient(#96deda , #50c9c3);
+    border-radius: 20px;
+    padding: 1%;
+}
+
+.icons {
+    width: 50px;
+    margin: 30px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+hr {
+    stroke: brown;
+    height: 10px;
+    border-radius: 10px;
+}
+
+#coding {
+    width: 400px;
+    float: left;
+    margin-right: 300px;
+}
+
+.education {
+    width: 400px;
+    float: right;
+    margin-right: 10%;
+}
+
+.caption {
+    margin-top: -100px;
+}
+
+.copyright {
+    font-size: 15px;
+}
+
