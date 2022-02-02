@@ -4,6 +4,10 @@
 
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .nav {
     margin: 20px;
 }
